@@ -32,7 +32,7 @@
     "@angular/compiler-cli": "~16.2.0",
     "@angular/language-service": "~16.2.0",
     "@nx/eslint-plugin": "16.7.1",
-    "@nx/jest": "16.7.1",
+    "@nx/jest": "21.3.0",
     "@nx/js": "16.7.1",
     "@nx/linter": "16.7.1",
     "@nx/playwright": "16.7.1",
